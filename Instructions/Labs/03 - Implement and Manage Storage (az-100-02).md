@@ -63,15 +63,15 @@ The main tasks for this exercise are as follows:
 
 1. On the **Custom deployment** blade, click the **Build your own template in the editor** link. If you do not see this link, click **Edit template** instead.
 
-1. From the **Edit template** blade, load the template file **Labfiles\\Module_03\\Implement_and_Manage_Storage\\az-100-02_azuredeploy.json**. 
+1. From the **Edit template** blade, click on **load file** to load the template file **Labfiles\\Module_03\\Implement_and_Manage_Storage\\az-100-02_azuredeploy.json**. 
 
    > **Note**: Review the content of the template and note that it defines deployment of an Azure VM hosting Windows Server 2016 Datacenter.
 
-1. Save the template and return to the **Custom deployment** blade. 
+1. Click on **Save** to save the template and return to the **Custom deployment** blade. 
 
 1. From the **Custom deployment** blade, navigate to the **Edit parameters** blade.
 
-1. From the **Edit parameters** blade, load the parameters file **Labfiles\\Module_03\\Implement_and_Manage_Storage\\az-100-02_azuredeploy.parameters.json**. 
+1. From the **Edit parameters** blade, click on **Load file** to load the parameters file **Labfiles\\Module_03\\Implement_and_Manage_Storage\\az-100-02_azuredeploy.parameters.json**. 
 
 1. Save the parameters and return to the **Custom deployment** blade. 
 
@@ -92,6 +92,8 @@ The main tasks for this exercise are as follows:
     - Admin Password: **Pa55w.rd1234**
 
     - Virtual Network Name: **az1000201-vnet1**
+    
+ 1. Scroll down and activate the checkbox next to **I agree to the terms and conditions stated above**, after that click on **Purchase** to launch the delpoyment
 
    > **Note**: To identify Azure regions where you can provision Azure VMs, refer to [**https://azure.microsoft.com/en-us/regions/offers/**](https://azure.microsoft.com/en-us/regions/offers/)
 

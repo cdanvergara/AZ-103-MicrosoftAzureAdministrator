@@ -60,11 +60,11 @@ The main tasks for this exercise are as follows:
 
 1. On the **Custom deployment** blade, click the **Build your own template in the editor** link. If you do not see this link, click **Edit template** instead.
 
-1. From the **Edit template** blade, load the template file **az-101-03b_01_azuredeploy.json**. 
+1. From the **Edit template** blade, click on **Load file** to load the template file **az-101-03b_01_azuredeploy.json**. 
 
    > **Note**: Review the content of the template and note that it defines deployment of an Azure VM, an Azure SQL Database, and an Azure Storage account.
 
-1. Save the template and return to the **Custom deployment** blade. 
+1. Click on **Save** to save the template and return to the **Custom deployment** blade. 
 
 1. From the **Custom deployment** blade, navigate to the **Edit parameters** blade.
 
@@ -122,11 +122,11 @@ The main tasks for this exercise are as follows:
 
 1. On the **Custom deployment** blade, click the **Build your own template in the editor** link. If you do not see this link, click **Edit template** instead.
 
-1. From the **Edit template** blade, load the template file **az-101-03b_02_azuredeploy.json**. 
+1. From the **Edit template** blade, click on **Load file** to load the template file **az-101-03b_02_azuredeploy.json**. 
 
    > **Note**: Review the content of the template and note that it defines deployment of an Azure VM.
 
-1. Save the template and return to the **Custom deployment** blade. 
+1. Click on **Save** to save the template and return to the **Custom deployment** blade. 
 
 1. From the **Custom deployment** blade, navigate to the **Edit parameters** blade.
 
